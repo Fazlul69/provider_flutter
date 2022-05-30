@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746025558793",
+    "project_id": "tapnwork-provider-7a741",
+    "storage_bucket": "tapnwork-provider-7a741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746025558793:android:a58e2286d51f4b8a9d69d8",
+        "android_client_info": {
+          "package_name": "com.tapnwork.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746025558793-l67ps1h4hk3ks2ivbgefaol1s43hd6bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGu49sFKdAJUKc7WSvcbYM9BJkdW_21HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746025558793-l67ps1h4hk3ks2ivbgefaol1s43hd6bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
