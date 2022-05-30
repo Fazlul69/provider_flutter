@@ -1,4 +1,4 @@
-package com.iqonic.provider
+package com.tapnwork.provider
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 

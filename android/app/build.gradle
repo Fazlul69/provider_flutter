@@ -35,7 +35,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.iqonic.provider"
+        applicationId "com.tapnwork.provider"
         minSdkVersion 21
         targetSdkVersion 31
         multiDexEnabled true
